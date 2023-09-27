@@ -1,0 +1,4 @@
+Training:
+SparseTensor adjacent matrix saving path=XXX.pt
+
+python run.py --attacked_graph_path=XXX.pt
